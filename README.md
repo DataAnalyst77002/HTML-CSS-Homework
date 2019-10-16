@@ -1,3 +1,5 @@
+Access as a webpage via https://dataanalyst77002.github.io/HTML-CSS-Homework/index.html
+
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
